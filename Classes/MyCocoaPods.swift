@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct OleksandraCocoa {
+public struct MyCocoaPods {
     
     public init() {}
     
